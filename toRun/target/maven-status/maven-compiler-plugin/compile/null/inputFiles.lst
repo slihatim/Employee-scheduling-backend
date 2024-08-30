@@ -1,0 +1,15 @@
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\Employee.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\EmployeeSchedule.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\EmployeeSchedulingMoveFactory.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\Setting.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\ShiftAssignment.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\ShiftAssignmentDifficultyComparator.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\ShiftPatternRotateMove.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\domain\ShiftType.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\rest\DemoDataGenerator.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\rest\EmployeeScheduleDemoResource.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\rest\EmployeeScheduleResource.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\rest\exception\EmployeeScheduleSolverException.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\rest\exception\EmployeeScheduleSolverExceptionMapper.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\rest\exception\ErrorInfo.java
+C:\Users\Lenovo\desktop\stage-alten\employee-scheduling3\src\main\java\org\acme\employeescheduling\solver\EmployeeSchedulingConstraintProvider.java

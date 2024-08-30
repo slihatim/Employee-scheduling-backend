@@ -1,0 +1,4186 @@
+{
+    "shiftAssignments": [
+        {
+            "id": "1",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "2",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "3",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "4",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "5",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "6",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "7",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "8",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "9",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "10",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "11",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "12",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "13",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "14",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "15",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "16",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "17",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "18",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "19",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "20",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "21",
+            "employee": {
+                "name": "worker 0",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "22",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "23",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "24",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "25",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "26",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "27",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "28",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "29",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "30",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "31",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "32",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "33",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "34",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "35",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "36",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "37",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "38",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "39",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "40",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "41",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "42",
+            "employee": {
+                "name": "worker 1",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "43",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "44",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "45",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "46",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "47",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "48",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "49",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "50",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "51",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "52",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "53",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "54",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "55",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "56",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "57",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "58",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "59",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "60",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "61",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "62",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "63",
+            "employee": {
+                "name": "worker 2",
+                "skills": [
+                    "Engineer"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "64",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "65",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "66",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "67",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "68",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "69",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "70",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "71",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "72",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "73",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "74",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "75",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "76",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "77",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "78",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "79",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "80",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "81",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "82",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "83",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "84",
+            "employee": {
+                "name": "worker 3",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "85",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "86",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "87",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "88",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "89",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "90",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "91",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "92",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "93",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "94",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "95",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "96",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "97",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "98",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "99",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "100",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "101",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "102",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "103",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "104",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "105",
+            "employee": {
+                "name": "worker 4",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "106",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "107",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "108",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "109",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "110",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "111",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "112",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "113",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "114",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "115",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "116",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "117",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "118",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "119",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "120",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "121",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "122",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "123",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "124",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "125",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "126",
+            "employee": {
+                "name": "worker 5",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "127",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "128",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "129",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "130",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "131",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "132",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "133",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "134",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "135",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "136",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "137",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "138",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "139",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "140",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "141",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "142",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "143",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "144",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "145",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "146",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "147",
+            "employee": {
+                "name": "worker 6",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "148",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "149",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "150",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "151",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "152",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "153",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "154",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "155",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "156",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "157",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "158",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "159",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "160",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "161",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "162",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "163",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "164",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "165",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "166",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "167",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "168",
+            "employee": {
+                "name": "worker 7",
+                "skills": [
+                    "Consultant"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "169",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "170",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "171",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "172",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "173",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "174",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "175",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "176",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "177",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "178",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "179",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "180",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "181",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "182",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "183",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "184",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "185",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "186",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "187",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "188",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "189",
+            "employee": {
+                "name": "worker 8",
+                "skills": [
+                    "Manager"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "190",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "191",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "192",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "193",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "194",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "195",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "196",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "197",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "198",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "199",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "200",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "201",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "202",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "203",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "204",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "205",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "206",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "207",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "208",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "209",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "210",
+            "employee": {
+                "name": "worker 9",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "211",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "212",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "213",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "214",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "215",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "216",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "217",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "218",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "219",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "220",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "221",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "222",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "223",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "224",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "225",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "226",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "227",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "228",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "229",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "230",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "231",
+            "employee": {
+                "name": "worker 10",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "232",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "233",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "234",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "235",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "236",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "237",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "238",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "239",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "240",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "241",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "242",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "243",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "244",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "245",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "246",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "247",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "248",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "249",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "250",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "251",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "252",
+            "employee": {
+                "name": "worker 11",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "253",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "254",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "255",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "256",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "257",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "258",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "259",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "260",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "261",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "262",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "263",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "264",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "265",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "266",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "267",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "268",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "269",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "270",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "271",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "272",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "273",
+            "employee": {
+                "name": "worker 12",
+                "skills": [
+                    "Technician"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "274",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "275",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "276",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "277",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "278",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "279",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "280",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "281",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "282",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "283",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "284",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "285",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "286",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "287",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "288",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "289",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "290",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "291",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "292",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "293",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "294",
+            "employee": {
+                "name": "worker 13",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "295",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "296",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "297",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "298",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "299",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "300",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "301",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "302",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "303",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "304",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "305",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "306",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "307",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "308",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "309",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "310",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "311",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "312",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "313",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "314",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "315",
+            "employee": {
+                "name": "worker 14",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        },
+        {
+            "id": "316",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-01",
+            "shiftType": null
+        },
+        {
+            "id": "317",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-02",
+            "shiftType": null
+        },
+        {
+            "id": "318",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-03",
+            "shiftType": null
+        },
+        {
+            "id": "319",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-04",
+            "shiftType": null
+        },
+        {
+            "id": "320",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-05",
+            "shiftType": null
+        },
+        {
+            "id": "321",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-06",
+            "shiftType": null
+        },
+        {
+            "id": "322",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-07",
+            "shiftType": null
+        },
+        {
+            "id": "323",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-08",
+            "shiftType": null
+        },
+        {
+            "id": "324",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-09",
+            "shiftType": null
+        },
+        {
+            "id": "325",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-10",
+            "shiftType": null
+        },
+        {
+            "id": "326",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-11",
+            "shiftType": null
+        },
+        {
+            "id": "327",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-12",
+            "shiftType": null
+        },
+        {
+            "id": "328",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-13",
+            "shiftType": null
+        },
+        {
+            "id": "329",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-14",
+            "shiftType": null
+        },
+        {
+            "id": "330",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-15",
+            "shiftType": null
+        },
+        {
+            "id": "331",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-16",
+            "shiftType": null
+        },
+        {
+            "id": "332",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-17",
+            "shiftType": null
+        },
+        {
+            "id": "333",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-18",
+            "shiftType": null
+        },
+        {
+            "id": "334",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-19",
+            "shiftType": null
+        },
+        {
+            "id": "335",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-20",
+            "shiftType": null
+        },
+        {
+            "id": "336",
+            "employee": {
+                "name": "worker 15",
+                "skills": [
+                    "Security"
+                ]
+            },
+            "date": "2024-07-21",
+            "shiftType": null
+        }
+    ],
+    "settings": [
+        {
+            "id": "1",
+            "day": "MONDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 2
+          },
+          {
+            "id": "2",
+            "day": "MONDAY",
+            "shift": "M",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "3",
+            "day": "MONDAY",
+            "shift": "M",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "4",
+            "day": "MONDAY",
+            "shift": "M",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "5",
+            "day": "MONDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "6",
+            "day": "MONDAY",
+            "shift": "S",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "7",
+            "day": "MONDAY",
+            "shift": "S",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "8",
+            "day": "MONDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "9",
+            "day": "MONDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "10",
+            "day": "MONDAY",
+            "shift": "N",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "11",
+            "day": "MONDAY",
+            "shift": "N",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "12",
+            "day": "TUESDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 2
+          },
+          {
+            "id": "13",
+            "day": "TUESDAY",
+            "shift": "M",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "14",
+            "day": "TUESDAY",
+            "shift": "M",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "15",
+            "day": "TUESDAY",
+            "shift": "M",
+            "skill": "Manager",
+            "minEmployees": 1
+          },
+          {
+            "id": "16",
+            "day": "TUESDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "17",
+            "day": "TUESDAY",
+            "shift": "S",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "18",
+            "day": "TUESDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "19",
+            "day": "TUESDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "20",
+            "day": "TUESDAY",
+            "shift": "N",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "21",
+            "day": "TUESDAY",
+            "shift": "N",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "22",
+            "day": "WEDNESDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "23",
+            "day": "WEDNESDAY",
+            "shift": "M",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "24",
+            "day": "WEDNESDAY",
+            "shift": "M",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "25",
+            "day": "WEDNESDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "26",
+            "day": "WEDNESDAY",
+            "shift": "S",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "27",
+            "day": "WEDNESDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "28",
+            "day": "WEDNESDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "29",
+            "day": "WEDNESDAY",
+            "shift": "N",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "30",
+            "day": "WEDNESDAY",
+            "shift": "N",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "31",
+            "day": "THURSDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 2
+          },
+          {
+            "id": "32",
+            "day": "THURSDAY",
+            "shift": "M",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "33",
+            "day": "THURSDAY",
+            "shift": "M",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "34",
+            "day": "THURSDAY",
+            "shift": "M",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "35",
+            "day": "THURSDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "36",
+            "day": "THURSDAY",
+            "shift": "S",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "37",
+            "day": "THURSDAY",
+            "shift": "S",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "38",
+            "day": "THURSDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "39",
+            "day": "THURSDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "40",
+            "day": "THURSDAY",
+            "shift": "N",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "41",
+            "day": "THURSDAY",
+            "shift": "N",
+            "skill": "Manager",
+            "minEmployees": 1
+          },
+          {
+            "id": "42",
+            "day": "FRIDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "43",
+            "day": "FRIDAY",
+            "shift": "M",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "44",
+            "day": "FRIDAY",
+            "shift": "M",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "45",
+            "day": "FRIDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "46",
+            "day": "FRIDAY",
+            "shift": "S",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "47",
+            "day": "FRIDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "48",
+            "day": "FRIDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "49",
+            "day": "FRIDAY",
+            "shift": "N",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "50",
+            "day": "FRIDAY",
+            "shift": "N",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "51",
+            "day": "SATURDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "52",
+            "day": "SATURDAY",
+            "shift": "M",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "53",
+            "day": "SATURDAY",
+            "shift": "M",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "54",
+            "day": "SATURDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "55",
+            "day": "SATURDAY",
+            "shift": "S",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "56",
+            "day": "SATURDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "57",
+            "day": "SATURDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "58",
+            "day": "SATURDAY",
+            "shift": "N",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "59",
+            "day": "SATURDAY",
+            "shift": "N",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "60",
+            "day": "SUNDAY",
+            "shift": "M",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "61",
+            "day": "SUNDAY",
+            "shift": "M",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "62",
+            "day": "SUNDAY",
+            "shift": "M",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "63",
+            "day": "SUNDAY",
+            "shift": "S",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "64",
+            "day": "SUNDAY",
+            "shift": "S",
+            "skill": "Engineer",
+            "minEmployees": 1
+          },
+          {
+            "id": "65",
+            "day": "SUNDAY",
+            "shift": "S",
+            "skill": "Security",
+            "minEmployees": 1
+          },
+          {
+            "id": "66",
+            "day": "SUNDAY",
+            "shift": "N",
+            "skill": "Consultant",
+            "minEmployees": 1
+          },
+          {
+            "id": "67",
+            "day": "SUNDAY",
+            "shift": "N",
+            "skill": "Technician",
+            "minEmployees": 1
+          },
+          {
+            "id": "68",
+            "day": "SUNDAY",
+            "shift": "N",
+            "skill": "Manager",
+            "minEmployees": 1
+          }
+    ],
+    "shiftTypes": [
+        "M",
+        "S",
+        "N",
+        "R"
+    ],
+    "score": null,
+    "solverStatus": null
+}

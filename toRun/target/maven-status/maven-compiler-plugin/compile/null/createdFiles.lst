@@ -1,0 +1,3 @@
+org\acme\employeescheduling\domain\EmployeeSchedulingMoveFactory.class
+org\acme\employeescheduling\domain\Setting.class
+org\acme\employeescheduling\domain\ShiftPatternRotateMove.class

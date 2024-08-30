@@ -1,0 +1,4 @@
+org\acme\employeescheduling\rest\EmployeeSchedulingEnvironmentTest.class
+org\acme\employeescheduling\rest\EmployeeScheduleResourceTest.class
+org\acme\employeescheduling\rest\EmployeeSchedulingResourceIT.class
+org\acme\employeescheduling\solver\EmployeeSchedulingConstraintProviderTest.class
