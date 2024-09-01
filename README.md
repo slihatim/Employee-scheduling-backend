@@ -1,6 +1,6 @@
 # Employee Scheduling (Java, Quarkus, Maven)
 
-Schedule shifts to employees, accounting for minimum employees per shift per day, and shiftAssignment skill requirements.
+Schedule shifts to employees, accounting for minimum employees per shift, and shift skill requirements.
 
 ![Employee Scheduling Screenshot](./employee-scheduling-screenshot.png)
 
@@ -18,9 +18,9 @@ Schedule shifts to employees, accounting for minimum employees per shift per day
 1. Git clone this repo and navigate to this directory:
 
     
-    `$ git clone https://github.com/slihatim/employee-scheduling3.git`
+    `$ git clone https://github.com/slihatim/Employee-scheduling2.git`
    
-    `$ cd employee-scheduling3/toRun`
+    `$ cd Employee-scheduling2/toRun`
    
 
 2. Start the application with Maven:
@@ -35,11 +35,11 @@ Schedule shifts to employees, accounting for minimum employees per shift per day
 
 1. With a command Line, navigate to the directory where you have input data, in my case :
 
-    `$ cd desktop/stage-alten/employee-scheduling3`
+    `$ cd desktop/stage-alten/employee-scheduling2`
 
 2. To run the solver, make a POST request with the data as follows:
 
-    `$ curl -X POST -H "Content-Type: application/json" -d @Version2Sample2.json http://localhost:8080/schedules`
+    `$ curl -X POST -H "Content-Type: application/json" -d @input.json http://localhost:8080/schedules`
 
     The response will be an id.
 
@@ -53,6 +53,8 @@ Schedule shifts to employees, accounting for minimum employees per shift per day
 
 ## Visualising the solution
 
-- To visualize the solution, use the html file : `Visualizing-data2.html` in the root directory.
+- To visualize the solution, use the html file : `index.html` in the root directory.
 
 - Replace the `date` string in the script of this html file by the JSON solution you get.
+
+- [This is an example of visualizing a solution](https://slihatim.github.io/Employee-scheduling2)
