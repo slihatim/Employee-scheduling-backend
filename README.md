@@ -4,6 +4,13 @@ Schedule shifts to employees, accounting for minimum employees per shift, and sh
 
 ![Employee Scheduling Screenshot](./employee-scheduling-screenshot.png)
 
+- [Prerequisites](#prerequisites)
+- [Run the application](#run-the-application)
+- [Input Data](#input-data)
+- [Output Data](#output-data)
+- [Visualising the solution](#visualising-the-solution)
+
+
 ## Prerequisites
 
 1. Install Java and Maven, for example with [Sdkman](https://sdkman.io):
