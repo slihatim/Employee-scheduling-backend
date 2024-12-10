@@ -25,9 +25,9 @@ Schedule shifts to employees, accounting for minimum employees per shift, and sh
 1. Git clone this repo and navigate to this directory:
 
     
-    `$ git clone https://github.com/slihatim/Employee-scheduling2.git`
+    `$ git clone https://github.com/slihatim/Employee-scheduling-backend.git`
    
-    `$ cd Employee-scheduling2/toRun`
+    `$ cd Employee-scheduling-backend/toRun`
    
 
 2. Start the application with Maven:
@@ -42,7 +42,7 @@ Schedule shifts to employees, accounting for minimum employees per shift, and sh
 
 1. With a command Line, navigate to the directory where you have input data, in my case :
 
-    `$ cd desktop/stage-alten/employee-scheduling2`
+    `$ cd desktop/stage-alten/Employee-scheduling-backend`
 
 2. To run the solver, make a POST request with the data as follows:
 
@@ -64,4 +64,6 @@ Schedule shifts to employees, accounting for minimum employees per shift, and sh
 
 - Replace the `date` string in the script of this html file by the JSON solution you get.
 
-- [This is an example of visualizing a solution](https://slihatim.github.io/Employee-scheduling2)
+- [This is an example of visualizing a solution](https://slihatim.github.io/Employee-scheduling-backend)
+
+- Or you can use directly the deployed application at : [https://employee-scheduling-frontend.vercel.app/](https://employee-scheduling-frontend.vercel.app/)
