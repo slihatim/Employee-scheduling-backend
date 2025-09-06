@@ -1,3 +1,6 @@
+# Deployed application
+[https://employee-scheduling-frontend.vercel.app/](https://employee-scheduling-frontend.vercel.app/)
+
 # Employee Scheduling (Java, Quarkus, Maven)
 
 Schedule shifts to employees, accounting for minimum employees per shift, and shift skill requirements.
